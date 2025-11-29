@@ -1,4 +1,4 @@
-# My RAG Project
+# 소득세 법령정보 RAG Project
 
 이 프로젝트는 uv를 사용하여 Python 환경을 관리합니다. 
 
